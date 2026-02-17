@@ -1,0 +1,17 @@
+# Core
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# LangChain + OpenAI
+langchain==0.3.14
+langchain-openai==0.3.0
+openai==1.58.1
+
+# Tools
+duckduckgo-search==7.2.1
+httpx==0.28.1
+beautifulsoup4==4.12.3
+
+# Utilities
+pydantic==2.10.4
+python-dotenv==1.0.1
